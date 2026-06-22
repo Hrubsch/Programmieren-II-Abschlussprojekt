@@ -1,0 +1,15 @@
+Computer Name: OmniBookGabriel
+Date of Test: 2026-06-18 10:32:08
+Bubble Sort Time: 4.285935 seconds
+Quick Sort Time: 0.012444 seconds
+
+Computer Name: OmniBookGabriel
+Date of Test: 2026-06-18 10:32:12
+Bubble Sort Time: 4.107353 seconds
+Quick Sort Time: 0.009387 seconds
+
+Computer Name: OmniBookGabriel
+Date of Test: 2026-06-22 09:43:38
+Bubble Sort Time: 3.848812 seconds
+Quick Sort Time: 0.008462 seconds
+
